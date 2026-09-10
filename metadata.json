@@ -1,0 +1,6 @@
+{
+  "name": "Vinayaka Festival 2026",
+  "description": "Community celebration portal, festival schedule, puja sankalpam bookings, and celebration gallery for Vinayaka Festival 2026 at Gowtham Sai Elite Towers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
